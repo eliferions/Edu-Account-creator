@@ -1,2 +1,2 @@
-@hartbot.de
+@historictheology.com
 2 captcha api key
